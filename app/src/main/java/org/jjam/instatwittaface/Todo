@@ -1,0 +1,7 @@
+nullpapa = new nullpapa();
+mrFiskOlja = new MrFiskOlja();
+
+mrRasta = new mrRasta();
+
+* Fixa long klick på alla items.
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InstaTwittaFace</string>
+    <string name="action_feed_activity">Lägg till flöde</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="client_id">4cf344c7160f48b1880f8421bbaebc50</string>
+    <string name="client_secret">0ba6321a401c416586653d159582ba7f</string>
+    <string name="facebook_app_id">765088146951387</string>
+    <string name="instagram">Instagram</string>
+    <string name="instagram_callback">igeb6240d263fb4736b3740af87edd18ea://authorize</string>
+    <string name="instagram_id">4cf344c7160f48b1880f8421bbaebc50</string>
+    <string name="instagram_log_in">Logga in Instagram</string>
+    <string name="instagram_pic">Instagram bild</string>
+    <string name="instagram_secret">0ba6321a401c416586653d159582ba7f</string>
+    <string name="instatext">Instagram status</string>
+    <string name="preferences">org.jjam.instatwittaface</string>
+    <string name="log_out">Logga ut</string>
+    <string name="redirect_uri">igeb6240d263fb4736b3740af87edd18ea://authorize</string>
+    <string name="support_email">goaldiggerapp@gmail.com</string>
+    <string name="website_url">https://www.mah.se</string>
+    <string name="twitter_secret">E2gqAPfpnGvIVf44Nw6SVRb3QSUsiplHBPGRUgf8AvRxfBPPh8</string>
+    <string name="twitter_key">uAm2pfS0xfPzJpI38BtsFIBWI</string>
+    <string name="tv_company">Ny text</string>
+    <string name="title_activity_my_feed">Mitt flöde</string>
+</resources>
